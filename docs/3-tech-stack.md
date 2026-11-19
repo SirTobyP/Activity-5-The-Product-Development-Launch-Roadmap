@@ -2,12 +2,12 @@
 
 ## Defined Tech Stack
 
-*   `Language / Framework / Tool 1`: [e.g., React - Used for building the interactive front-end user interface]
+- `React + TypeScript`: Used to build the front-end dashboard where satellite operators can view orbit information, collision alerts, and suggested path adjustments.
 
-*   `Language / Framework / Tool 2`: [e.g., Firebase - Used for user authentication and real-time database tracking]
+- `Python + FastAPI`: Used for the backend to process satellite and debris data, check for potential orbit intersections, and generate suggested path adjustments.
 
-*   `Language / Framework / Tool 3`: [e.g., Tailwind CSS - Used for styling layout elements quickly]
+- `Supabase`: Used as the cloud database to store satellite information, debris records, orbit data, and collision alerts.
 
 ## Hosting & Deployment Strategy
 
-[Describe how you plan to host your application so it is live and accessible to end-users via a browser or device, e.g., Vercel, Netlify, GitHub Pages, or AWS.]
+The LEON application will use Vercel to host the front-end website and Render to host the Python backend. Supabase will provide the hosted database for storing and accessing satellite and debris information. This setup will allow users to access LEON through a web browser while keeping the website, backend, and database connected.
