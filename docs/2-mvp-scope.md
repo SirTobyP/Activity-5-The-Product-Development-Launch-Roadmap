@@ -2,8 +2,13 @@
 
 ## The Ultimate Product Vision
 
-[Insert 1-2 sentences describing what the app does and who it is for.]
-
+LEON (Low Earth Orbit Network) is a cloud-based central communication hub built for
+managing low earth orbit traffic. LEON centralizes communication, debris tracking, and orbit
+path data sharing between satellites and their owners, then offers proposed path adjustments
+for either device at risk of collision. With the rise of low earth orbit debris and traffic, by using a
+centralized system instead of manual communication between each other to prevent collisions,
+it minimizes human intervention in possible intersecting orbit paths on top of drastically reducing
+communication response times.
 ## The Launch Goal (v1.0 MVP)
 
 To launch a functional version by **[Insert Target Date]** focusing strictly on core value.
