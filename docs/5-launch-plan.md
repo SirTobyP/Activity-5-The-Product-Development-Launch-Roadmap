@@ -2,9 +2,8 @@
 
 ## Marketing & User Acquisition
 
-*   **Primary Launch Channel:** [Where will you find your first 50 users? e.g., ProductHunt, Specific Subreddits, Campus flyer campaign]
-
-*   **Value Proposition:** [The single core sentence used to pitch the product to outsiders]
+*   **Primary Launch Channel:** Direct outreach to commercial satellite operators and aerospace industry conferences
+*   **Value Proposition:** LEON replaces slow, manual operator coordination with a centralized hub that detects low Earth orbit collision risks and proposes safe trajectory adjustments in real time.
 
 ## Pre-Launch Deployment Checklist
 
