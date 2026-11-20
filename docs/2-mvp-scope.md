@@ -11,7 +11,7 @@ it minimizes human intervention in possible intersecting orbit paths on top of d
 communication response times.
 ## The Launch Goal (v1.0 MVP)
 
-To launch a functional version by **[Insert Target Date]** focusing strictly on core value.
+To launch a functional version by **2029** focusing strictly on core value.
 
 ## Feature Prioritization Matrix
 
