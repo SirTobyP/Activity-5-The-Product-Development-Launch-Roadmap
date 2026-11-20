@@ -12,7 +12,7 @@
 
 ## The Pivot Strategy
 
-If our primary implementation for this feature fails or takes too long, our backup plan is to:
+If real-time collision detection cannot be fully implemented due to data availability or technical constraints, our backup plan is to:
 
    * Notify users when satellite data is unavailable or outdated.
    * Display the latest verified data timestamp.
