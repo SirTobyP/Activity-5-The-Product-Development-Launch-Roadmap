@@ -6,6 +6,10 @@
 
 *   **The Hazard:** LEON relies on accurate and up-to-date satellite tracking data to identify potential collision risks. Missing, delayed, or inaccurate data could lead to unreliable predictions and reduce confidence in the platform's recommendations.
 
+## User Experience Consideration
+
+  * Even if collision detection functions correctly, complex data visualization and navigation may make collision information difficult for users to interpret, reducing the effectiveness of the system.
+
 ## The Pivot Strategy
 
 If our primary implementation for this feature fails or takes too long, our backup plan is to:
